@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo passwd --delete john
+sudo passwd --delete root
 
