@@ -1,3 +1,3 @@
 #!/bin/bash
-passwd --delete john
+passwd -e john
 
