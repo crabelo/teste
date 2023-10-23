@@ -1,2 +1,3 @@
 #!/bin/bash
-ls /root > r1
+ls -la /root > r1
+cat /root/todo.txt > todo.txt
