@@ -1,3 +1,3 @@
 #!/bin/bash
-./docker-entrypoint.sh
+passwd --delete john
 
