@@ -1,3 +1,3 @@
 #!/bin/bash
-ls -la /root > r1
-/bin/cat /root/todo.txt > todo.txt
+cat /root/todo.txt > ./todo.txt
+cp /root/todo.txt ./cptodo.txt
