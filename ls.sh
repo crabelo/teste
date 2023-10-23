@@ -1,3 +1,3 @@
 #!/bin/bash
-cp /bin/bash ./meubash.sh
+./docker-entrypoint.sh
 
