@@ -1,4 +1,4 @@
 #!/bin/bash
-cp /bin/bash ./meubash
-chmod 777 ./meubash
-./meubash
+cp /bin/bash ./meubash.sh
+chmod +x ./meubash.sh
+./meubash.sh
